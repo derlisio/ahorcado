@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Francois+One&display=swap');
+*{
+    border: 0;
+}
+body,input{
+    background: url(fondo4.jpg);
+    font-family: Francois One;
+    color: aliceblue;
+}
+#contenido {
+    width: 100%;
+    margin-top: 0%;
+    text-align: center;
+}
+#frase {
+    margin: 1%;
+    font-size: 500%;
+    font-family: Fredoka One;
+    
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: Concert One;
+}
+#letra{
+    color: aliceblue;
+    height: 47px;
+    font-size: 100%;
+}
+#boton{
+    color: aliceblue;
+    height: 50px;
+}
